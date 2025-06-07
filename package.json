@@ -1,0 +1,19 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "setup playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathyasuba27/playwright.git"
+  },
+  "author": "sathya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathyasuba27/playwright/issues"
+  },
+  "homepage": "https://github.com/sathyasuba27/playwright#readme"
+}
